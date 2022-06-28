@@ -1,22 +1,22 @@
 {
-  "name": "parcel-project-template",
+  "name": "icecream",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://VSRudnyk.github.io/iceCream",
+  "homepage": "https://AndreyHerzhov.github.io/iceCream",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /iceCream/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/AndreyHerzhov/iceCream.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/AndreyHerzhov/iceCream/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
