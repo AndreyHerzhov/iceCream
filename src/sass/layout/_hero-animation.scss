@@ -184,10 +184,10 @@
 
 .so-tasty__animation {
   opacity: 0;
-  animation: soTastyTablet 500ms forwards, shake 0.5s 10;
+  animation: soTastyTablet 500ms forwards;
   animation-delay: 3s;
   @media screen and(min-width: 1280px) {
-    animation: soTastyDesktop 500ms forwards, shake 0.5s 10;
+    animation: soTastyDesktop 500ms forwards;
     animation-delay: 3s;
   }
 }
